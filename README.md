@@ -3,7 +3,7 @@
 This project provides a Discord bot to monitor server stats and manage VPS servers with reboot buttons for each server. Below is a preview of the bot in action:
 
 ## Preview
-![Bot Preview](preview.png)
+![Bot Preview]([preview.png](https://cdn.discordapp.com/attachments/1264840797442932766/1322597852345663579/image.png?ex=677174bc&is=6770233c&hm=45b596fbab684e3b8af3fa9ef265f13af160bc2943a6c64248a47ea43deb2b2d&))
 
 ## Features
 - Monitors server stats (CPU, Memory, Disk Usage, Uptime, TCP/UDP connections, etc.).
