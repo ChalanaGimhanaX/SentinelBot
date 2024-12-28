@@ -19,7 +19,7 @@ This project provides a Discord bot to monitor server stats and manage VPS serve
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/discord-server-monitor-bot.git
+git clone https://github.com/ChalanaGimhanaX/SentinelBot.git
 cd discord-server-monitor-bot
 ```
 
