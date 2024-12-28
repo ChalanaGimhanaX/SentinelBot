@@ -40,22 +40,23 @@ Create a `.env` file in the root directory with the following content:
 
 ```
 # Discord Configuration
-BOT_TOKEN=YOUR_BOT_TOKEN
-CHANNEL_ID=DISCORD_CHANNEL_ID
+BOT_TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CHANNEL_ID=XXXXXXXXXXXXXX
 
 # VPS Configuration
-VPS_NAMES=SG1,SG2
-VPS_IPS=38.76.247.213,206.189.152.155
+VPS_NAMES=VPS1,VPS2
+VPS_IPS=XXX.XXX.XXX.XXX,XXX.XXX.XXX.XXX
 VPS_USERS=root,root
-VPS_PASSWORDS=YourPassword1,YourPassword2
+VPS_PASSWORDS=XXXXXXXXXXXX,XXXXXXXXXXXX
 
 # Panel Configuration
-PANEL_URLS=https://sg1.example.com,https://sg2.example.com
+PANEL_URLS=https://vps1.example.com,https://vps2.example.com
 PANEL_USERS=admin1,admin2
-PANEL_PASSWORDS=PanelPassword1,PanelPassword2
+PANEL_PASSWORDS=XXXXXXXXXXXX,XXXXXXXXXXXX
 
 # Bot Configuration
 DELAY=10
+
 ```
 
 ### 6. Run the Bot
